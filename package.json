@@ -1,0 +1,22 @@
+{
+    "name": "get-nested-object",
+    "version": "1.0.2",
+    "description": "Find and return a nested object or array included in parent arrays or objects",
+    "main": "index.js",
+    "author": "Khoa Huynh",
+    "license": "MIT",
+    "scripts": {
+        "test": "mocha ./test/"
+    },
+    "devDependencies": {
+        "mocha": "^5.2.0"
+    },
+    "keywords": [
+        "npm",
+        "get-nested-object"
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}

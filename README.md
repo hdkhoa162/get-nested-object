@@ -1,4 +1,4 @@
-# get-nested-object
+# get-nested-object! [![Build Status](https://travis-ci.org/hdkhoa162/get-nested-object.svg?branch=master)](https://travis-ci.org/hdkhoa162/get-nested-object)
 
 This plugin helps find and return a nested object or array included in parent arrays or objects.
 

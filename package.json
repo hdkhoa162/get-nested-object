@@ -1,6 +1,6 @@
 {
     "name": "get-nested-object",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Find and return a nested object or array included in parent arrays or objects",
     "main": "index.js",
     "author": "Khoa Huynh",
